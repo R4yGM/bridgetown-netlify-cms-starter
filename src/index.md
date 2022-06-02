@@ -5,13 +5,13 @@ layout: home
 
 <blockquote>
 
-<a href="/2021/11/09/scanning-north-korean-internet/">Scanning North Korean internet<p style="text-align: right;"> 2021/11/09</p></a>
+<a href="/2021/11/09/scanning-north-korean-internet/" style="text-decoration: none !important;font-size: 25px;color: white;">Scanning North Korean internet<p style="text-align: right;"> 2021/11/09</p></a>
 
 </blockquote>
 
 <blockquote>
 
-<a href="/2021/09/02/THM-Basic-malware-reverse-engineering/">THM Basic malware reverse engineering<p style="text-align: right;">2021/09/02</p></a>    
+<a href="/2021/09/02/THM-Basic-malware-reverse-engineering/" style="text-decoration: none !important;font-size: 25px;color: white;">THM Basic malware reverse engineering<p style="text-align: right;">2021/09/02</p></a>    
 
 </blockquote>
 
@@ -19,13 +19,13 @@ layout: home
 
 <blockquote>
 
-<a href="/2021/11/09/scanning-north-korean-internet/">Scanning North Korean internet<p style="text-align: right;"> 2021/11/09</p></a> 
+<a href="/2021/11/09/scanning-north-korean-internet/" style="text-decoration: none !important;font-size: 25px;color: white;">Scanning North Korean internet<p style="text-align: right;"> 2021/11/09</p></a> 
 
 </blockquote>
 
 <blockquote>
 
-<a href="/2021/09/02/THM-Basic-malware-reverse-engineering/">THM Basic malware reverse engineering<p style="text-align: right;"> 2021/09/02</p></a>   
+<a href="/2021/09/02/THM-Basic-malware-reverse-engineering/" style="text-decoration: none !important;font-size: 25px;color: white;">THM Basic malware reverse engineering<p style="text-align: right;"> 2021/09/02</p></a>   
 
 </blockquote>
 
