@@ -11,7 +11,7 @@ doing my research i've found that also other people scanned the entire north kor
 
 most of the scans i did are under the 10,000 ports because otherwise if i scanned all the 65,535 ports the scan would took too much and from some test scans i found out that they don't have many open high ports
 
-and then i bought some cheap vps and started scanning from different locations around the world with cron jobs that automatically published the scans in the github repository, scanning day and night for months
+and then i bought some cheap vps and started scanning from different locations around the world with cron jobs that automatically published the scans into the github repository, scanning day and night for months
 
 with all the data collected i started making some research and graphs
 
@@ -45,6 +45,4 @@ Uptime guess: 17.123 days (since Sun Sep  5 22:15:43 2021)
 
 which made me think how even if they hate the majority of the world they still use and rely on their software/hardware
 
-
-
-github repository : https://github.com/R4yGM/NorthKoreaScans
+github repository : <https://github.com/R4yGM/NorthKoreaScans>
