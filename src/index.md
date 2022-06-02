@@ -1,17 +1,31 @@
 ---
 layout: home
 ---
-Recent posts : 
+## Recent posts 
 
 <blockquote>
 
-<a href="/2021/11/09/scanning-north-korean-internet/">Scanning North Korean internet</a> |  2021/11/09
+<a href="/2021/11/09/scanning-north-korean-internet/">Scanning North Korean internet</a> <p style="text-align: right;"> 2021/11/09</p>
 
 </blockquote>
 
 <blockquote>
 
-<a href="/2021/09/02/THM-Basic-malware-reverse-engineering/">THM Basic malware reverse engineering</a>  |  2021/11/09
+<a href="/2021/09/02/THM-Basic-malware-reverse-engineering/">THM Basic malware reverse engineering</a>    <p style="text-align: right;">2021/09/02</p
+
+</blockquote>
+
+## Popular posts
+
+<blockquote>
+
+<a href="/2021/11/09/scanning-north-korean-internet/">Scanning North Korean internet</a> <p style="text-align: right;"> 2021/11/09</p>
+
+</blockquote>
+
+<blockquote>
+
+<a href="/2021/09/02/THM-Basic-malware-reverse-engineering/">THM Basic malware reverse engineering</a>   <p style="text-align: right;"> 2021/09/02</p>
 
 </blockquote>
 
