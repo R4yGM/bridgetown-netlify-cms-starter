@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Stegbrute — Fast Steganography brute-force tool
+title: Stegbrute - Fast Steganography brute-force tool
 date: 2020-07-23T11:09:12.271Z
 ---
 
