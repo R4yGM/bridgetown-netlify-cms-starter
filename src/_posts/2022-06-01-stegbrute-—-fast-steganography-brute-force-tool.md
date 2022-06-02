@@ -16,7 +16,7 @@ First of all you need to download the program, you can download it in 4 ways the
 
 
 now that you have stegbrute installed run it with -h or — help option, this is what you should see
-```
+```bash
 ============================================================
      ____  _             ____             _
     / ___|| |_ ___  __ _| __ ) _ __ _   _| |_ ___
@@ -50,13 +50,13 @@ OPTIONS:
 now you are ready to crack any image!,
 
 example on how to use stegbrute
-```
+```bash
 stegbrute -f image.jpg -w wordlist.txt -x results.txt
 ```
 
 where -f is the file you want to crack, -w is the wordlist (a big list of passwords), -x is where you want to save your results, output :
 
-```
+```bash
 ============================================================
      ____  _             ____             _
     / ___|| |_ ___  __ _| __ ) _ __ _   _| |_ ___
@@ -83,7 +83,7 @@ Comparision
 
 I saw around also stegcracker wich is also a great program so i tried to compare it to stegbrute, and these are the results:
 
-```
+```bash
 stegcracker :
 
 # time stegcracker image.jpg wordlist.txt | grep -E "real|user|sys"
@@ -92,7 +92,7 @@ user    0m0.420s
 sys     0m0.362s
 ```
 
-```
+```bash
 stegbrute :
 
 # time stegbrute -f image.jpg -w wordlist.txt | grep -E "real|user|sys"
