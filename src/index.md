@@ -1,9 +1,7 @@
 ---
 layout: home
 ---
-
-Welcome to [Bridgetown](https://www.bridgetownrb.com)!
-
-This blog is powered by [Netlify CMS](https://www.netlifycms.org).
-
-View the [repo](https://github.com/andrewmcodes/bridgetown-netlify-cms-starter) for more information!
+<details>
+		<summary>Public PGP Key<code style="margin-left:10px;">asd</code></summary>
+			<pre>aaa</pre>
+	</details>
