@@ -5,13 +5,13 @@ Recent posts :
 
 <blockquote>
 
-[Scanning North Korean internet](https://r4yan.netlify.app/2021/11/09/scanning-north-korean-internet/)  |  2021/11/09
+<a href="/2021/11/09/scanning-north-korean-internet/">Scanning North Korean internet</a> |  2021/11/09
 
 </blockquote>
 
 <blockquote>
 
-[THM Basic malware reverse engineering](https://r4yan.netlify.app/2021/09/02/THM-Basic-malware-reverse-engineering/)  |  2021/11/09
+<a href="/2021/09/02/THM-Basic-malware-reverse-engineering/">THM Basic malware reverse engineering</a>  |  2021/11/09
 
 </blockquote>
 
