@@ -1,35 +1,19 @@
 ---
 layout: home
 ---
-* ##### Recent posts 
+* ##### Popular posts
 
-<blockquote>
+<blockquote style="border-radius: 20px;">
 
 <a href="/2021/11/09/scanning-north-korean-internet/" style="text-decoration: none !important;font-size: 20px;color: white;">Scanning North Korean internet<p style="text-align: right;"> 2021/11/09</p></a>
 
 </blockquote>
 
-<blockquote>
+<blockquote style="border-radius: 20px;">
 
 <a href="/2021/09/02/THM-Basic-malware-reverse-engineering/" style="text-decoration: none !important;font-size: 20px;color: white;">THM Basic malware reverse engineering<p style="text-align: right;">2021/09/02</p></a>    
 
 </blockquote>
-
-* ##### Popular posts
-
-<blockquote>
-
-<a href="/2021/11/09/scanning-north-korean-internet/" style="text-decoration: none !important;font-size: 20px;color: white;">Scanning North Korean internet<p style="text-align: right;"> 2021/11/09</p></a> 
-
-</blockquote>
-
-<blockquote>
-
-<a href="/2021/09/02/THM-Basic-malware-reverse-engineering/" style="text-decoration: none !important;font-size: 20px;color: white;">THM Basic malware reverse engineering<p style="text-align: right;"> 2021/09/02</p></a>   
-
-</blockquote>
-
-
 
 <details>
 		<summary>Public PGP Key<code style="margin-left:10px;">AC88   7077  2272  D826</code></summary>
