@@ -1,11 +1,59 @@
 ---
-layout: page
 title: About
+layout: page
 permalink: /about/
 ---
+<details>
+		<summary>Public PGP Key<code style="margin-left:10px;">AC88   7077  2272  D826</code></summary>
+			<pre>-----BEGIN PGP PUBLIC KEY BLOCK-----
 
-This is the basic Bridgetown site template. You can find out more info about customizing your Bridgetown site, as well as basic Bridgetown usage documentation at [bridgetownrb.com](https://bridgetownrb.com/)
-
-You can find the source code for Bridgetown at GitHub:
-[bridgetownrb](https://github.com/bridgetownrb) /
-[bridgetown](https://github.com/bridgetownrb/bridgetown)
+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
+Yv80uF/FZ0Llj4uh
+=RjwV
+-----END PGP PUBLIC KEY BLOCK-----</pre>
+	</details>
