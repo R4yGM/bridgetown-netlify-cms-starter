@@ -1,7 +1,7 @@
 ---
 layout: home
 ---
-* ##### Popular posts
+##### Popular posts
 
 <blockquote style="border-radius: 20px;">
 
@@ -14,8 +14,6 @@ layout: home
 <a href="/2021/09/02/THM-Basic-malware-reverse-engineering/" style="text-decoration: none !important;font-size: 20px;color: white;">THM Basic malware reverse engineering<p style="text-align: right;">2021/09/02</p></a>    
 
 </blockquote>
-
-
 
 <blockquote style="border-radius: 20px;">
 
