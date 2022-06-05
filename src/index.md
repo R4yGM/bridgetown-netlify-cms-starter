@@ -9,7 +9,7 @@ layout: home
 
 <h5 style="font-size:23px;text-align:center;color:gray">Developer. InfoSec.</h5>
 
-##### Popular posts
+##### Recent posts
 
 <br>
 
