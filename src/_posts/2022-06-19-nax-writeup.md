@@ -41,7 +41,7 @@ i found 5 ports open, but the only interesting one here is port 80 which is the 
 
 ![](/src/images/uploads/9s.png)
 
-nothing interesting except those periodic table elements where if you get the atomic values you will get this
+nothing interesting except those periodic table elements where if you get the atomic values of each element you will get this
 
 ```
 47 80 73 51 84 46 80 78 103
