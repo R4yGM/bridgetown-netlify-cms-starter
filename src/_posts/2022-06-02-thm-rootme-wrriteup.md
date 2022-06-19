@@ -1,6 +1,6 @@
 ---
 layout: post
-title: THM Rootme wrriteup
+title: THM Rootme writeup
 date: 2020-08-01T12:25:26.802Z
 ---
 ## TASK 2
