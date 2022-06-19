@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Nax writeup
+title: THM Nax writeup
 date: 2022-06-18T19:22:24.527Z
 ---
 # Nax writeup
