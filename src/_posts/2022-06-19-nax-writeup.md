@@ -3,8 +3,6 @@ layout: post
 title: THM Nax writeup
 date: 2022-06-18T19:22:24.527Z
 ---
-# Nax writeup
-
 After lunching the vm i started doing some enumeration, port scanning and fuzzing
 
 ```
