@@ -6,13 +6,18 @@
   <body class="{{ page.layout }} {{ page.page_class }}">
     <header>
       <h1>{{ site.metadata.title }} <img src="https://i.imgur.com/ke51b4O.png" style="margin-bottom:-2px;width: 71px;"> </h1> 
-      {% render "navbar", metadata: site.metadata, page: page %}
+      <!--{% render "navbar", metadata: site.metadata, page: page %}-->
+      <navbar>
+       <a href="/">Home</a> /
+       <a href="/about">About</a> /
+        <a href="/posts">Posts</a>
       /
       <a href="https://keybase.io/r4yan">Keybase</a>
       /
       <a href="https://breached.to/User-sigma">BreachForums</a>
       /
       <a href="https://github.com/R4yGM">Github</a>
+      </navbar>
     </header>
 
     <main>
