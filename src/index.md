@@ -38,7 +38,7 @@ Various websites of this domain
         </tr>
         <tr>
             <td><strong>pentestbook</strong>.r4yan.com</td>
-            <td>pentest book containing all my notes or guides taken during ctf's (still to fulfill)</td>
+            <td>pentest book containing all my notes or guides taken during ctf's</td>
         </tr>
     </tbody></table>
 <br><br>
