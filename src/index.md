@@ -43,9 +43,8 @@ Various websites of this domain
     </tbody></table>
 <br><br>
 ## Recent posts
-<br>
 Latest projects,guides or writeups i made
-<br><br>
+<br>
 
 <blockquote style="border-radius: 20px;">
 
