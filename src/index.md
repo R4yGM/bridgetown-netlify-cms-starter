@@ -16,7 +16,7 @@ layout: home
 </div>
 </div>
 #### Recent posts
-Latest projects,research or writeups i made
+Latest projects,guides or writeups i made
 <br>
 
 <blockquote style="border-radius: 20px;">
