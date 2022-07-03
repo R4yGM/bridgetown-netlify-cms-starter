@@ -42,7 +42,7 @@ Various websites of this domain
         </tr>
     </tbody></table>
 <br><br>
-#### Recent posts
+## Recent posts
 <br>
 Latest projects,guides or writeups i made
 <br><br>
