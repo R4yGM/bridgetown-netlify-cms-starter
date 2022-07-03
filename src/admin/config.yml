@@ -46,9 +46,3 @@ collections:
           - { label: Layout, name: layout, widget: hidden, default: page }
           - { label: Permalink, name: permalink, widget: string, default: '/about/' }
           - { label: Body, name: body, widget: markdown }   
-      - label: Keybase
-        name: Keybase
-        file: https://keybase.io/r4yan
-        fields:
-          - { label: Title, name: title, widget: hidden, default: Keybase }
-          - { label: Body, name: body, widget: markdown }
