@@ -1,6 +1,20 @@
 ---
 layout: home
 ---
+## Sitemap
+Various websites of this domain
+<table>
+        <tbody><tr>
+            <td style="border: 1px solid #554f4f"><strong>Subdomain</strong></td>
+            <td style="border: 1px solid #554f4f"><strong>Content</strong></td>
+        </tr>
+        <tr>
+            <td><strong>hosting</strong>.r4yan.com</td>
+            <td>hosting service and domain registrar with also ssl certificates</td>
+        </tr>
+    </tbody></table>
+
+
 <p style="color: transparent;">z</p>
 
 <div style="display:flex">
