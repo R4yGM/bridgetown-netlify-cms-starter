@@ -4,8 +4,9 @@ layout: home
 <p style="color: transparent;">z</p>
 
 <div style="display:flex">
-
+<div style="max-width:50%">
 <img src="https://avatars.githubusercontent.com/u/45489155?v=4" width="100" height="100" style="border: 2px solid white !important;border-radius: 30px;margin: auto;display: block;">
+</div>
 <div>
 <h5 style="font-size:40px;text-align:center">R4yan</h5>
 
@@ -15,7 +16,7 @@ layout: home
 </div>
 </div>
 #### Recent posts
-
+Latest projects,research or writeups i made
 <br>
 
 <blockquote style="border-radius: 20px;">
