@@ -1,10 +1,6 @@
 ---
 layout: home
 ---
-## Sitemap
-Various websites of this domain
-
-
 <p style="color: transparent;">z</p>
 
 <div style="display:flex">
@@ -20,6 +16,9 @@ Various websites of this domain
 </div>
 </div>
 <br><br>
+## Sitemap
+Various websites of this domain
+
 <table>
         <tbody><tr>
             <td style="border: 1px solid #554f4f"><strong>Subdomain</strong></td>
