@@ -29,6 +29,18 @@ Various websites of this domain
             <td><strong>hosting</strong>.r4yan.com</td>
             <td>hosting service and domain registrar with also ssl certificates</td>
         </tr>
+        <tr>
+            <td><strong>blog</strong>.r4yan.com</td>
+            <td>writeups and articles</td>
+        </tr>
+        <tr>
+            <td><strong>www</strong>.r4yan.com</td>
+            <td>root domain, currently hosting a unity publisher website</td>
+        </tr>
+        <tr>
+            <td><strong>pentestbook</strong>.r4yan.com</td>
+            <td>pentest book containing all my notes or guides taken during ctf's (still to fulfill)</td>
+        </tr>
     </tbody></table>
 <br><br>
 #### Recent posts
