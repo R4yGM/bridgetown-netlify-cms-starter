@@ -3,14 +3,17 @@ layout: home
 ---
 <p style="color: transparent;">z</p>
 
-<img src="https://avatars.githubusercontent.com/u/45489155?v=4" width="200" height="200" style="border: 2px solid white !important;border-radius: 30px;margin: auto;display: block;">
+<div style="display:flex">
 
+<img src="https://avatars.githubusercontent.com/u/45489155?v=4" width="100" height="100" style="border: 2px solid white !important;border-radius: 30px;margin: auto;display: block;">
+<div>
 <h5 style="font-size:40px;text-align:center">R4yan</h5>
 
 <!--<h5 style="font-size:23px;text-align:center;color:gray">Developer. InfoSec.</h5>-->
 
 <h5 style="font-size:23px;text-align:center;color:gray">cmF5YW5AcjR5YW4uY29tIA==</h5>
-
+</div>
+</div>
 #### Recent posts
 
 <br>
