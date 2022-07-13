@@ -39,7 +39,7 @@ PORT    STATE SERVICE VERSION
 
 i found 5 ports open, but the only interesting one here is port 80 which is the webserver, i also did some fuzzing with gobuster but it didn't find actually something useful and so i looked at the website itself
 
-![](/src/images/uploads/9s.png)
+![](/images/uploads/9s.png)
 
 nothing interesting except those periodic table elements where if you get the atomic values of each element you will get this
 
@@ -51,7 +51,7 @@ which looks like ascii values and by using an online converter from ascii to tex
 
 by opening that image you will get this 
 
-![](/src/images/uploads/9d.png)
+![](/images/uploads/9d.png)
 
 download that image and check its exif data 
 
