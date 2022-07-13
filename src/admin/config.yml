@@ -10,7 +10,7 @@ backend:
 
 local_backend: true
 
-media_folder: src/images/uploads
+media_folder: images/uploads
 
 collections:
   - name: blog
